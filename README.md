@@ -1,5 +1,6 @@
 # Genrify
 Genrify is a tool for Spotify. Just paste in a Spotify URL, Song URI or Song ID, and the app will list the genres associated with the song. This information is based on the authors of the song.
+Try it out: [Genrify](http://genrify.berente.net)
 ## Authentication
 You need to log in with Spotify. This is because Spotify only allows access to its database with client credidentials.
 ## Privacy
