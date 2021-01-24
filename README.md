@@ -13,7 +13,7 @@ REACT_APP_BASE64=<base64 coded clientid:secret>
 REACT_APP_REDIRECT=<redirect URL for login>
 ```
 # ISC License (ISC)
-Copyright 2020 Bálint Berente
+Copyright 2021 Bálint Berente
 
 Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted, provided that the above copyright notice and this permission notice appear in all copies.
 
